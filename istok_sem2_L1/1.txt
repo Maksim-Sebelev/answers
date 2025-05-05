@@ -1,0 +1,155 @@
+var 1
+listening
+
+task1
+
+details of: party
+place: park
+game: footbal
+drink: juice
+start: 2 pm
+
+task2
+
+help: mobile phone
+press: address
+to speak: 4
+can't: credit card
+have: password
+money: twenty pouds
+var2
+listening
+task1
+--People believed that (1) could help them to be healthy.
+
+1. gods
+2. 1130
+3. islands
+4. schools
+5. 170
+6. theatre
+7. pool
+8. clean
+
+task2
+
+--Listen to the text about the childhood of abraham lincoln
+
+1. Lincoln visited school regularly after work at the farm.
+b. False
+2. Teaching at the local school was not good.
+a. True
+3. We do not know who taught Lincoln to read.
+a. True
+4. Reading the Bible was his favourite activity.
+b. False
+5. His family did not have a big library at home.
+a. True
+6. Lincoln had to work for his neighbours to read their books.
+b. False
+7. His father’s wife wanted Abraham to work at the farm.
+b. False
+8. With time, Lincoln became better at understanding books than his stepmother.
+a. True
+
+task3
+--Have you heard (0) about London Underground or the Tube? This is the best way (1)
+
+1. b. to
+2. c. the
+3. c. many
+4. b. easiest
+5. b. like
+6. c. by
+7. a. best
+8. c. all
+9. / b. can /
+10. c. than
+
+reading
+task1
+
+Everyone knows the name of Leonardo da Vinci.
+He was a great (0)(PAINT) painter, 
+
+A. because people love the animals. -> ЛИШНИЙ
+B. going around a large lake. -> 5
+C. as often as they can. -> 1
+D. it’s the only one of its kind. -> 6
+E. to do in this wonderful animal park. -> 3
+F. when they play near their cars. -> 2
+G. picnic in the park. -> 4
+
+task2
+--
+William Shakespeare (1564-1616) is the greatest writer who wrote in English. 
+Also, he is the most pop
+
+1. 4 billion copies of Shakespeare’s books were sold:
+c. During all the time since his first books were published
+
+2. We do not know a lot about:
+a. His adult life
+
+3. What do we know about Shakespeare’s school education?
+a. There was a school in Stratford, and he could study there
+
+4. Shakespeare’s father was rich because:
+b. He was a successful glove-maker
+5. Researchers hope to find more information on:
+c. What happened to him between 1585 and 159
+
+
+
+task3
+
+1. Tamara’s parents ...
+a. sent Tamara away
+2. Tamara and her sister were both born
+a. In Mexico
+3. Adriana wrote to Tamara
+a. To reply to an email
+
+4. How did the sisters meet?
+a. Tamara contacted Adriana
+5. Tamara didn’t know ...
+a. That she had a sister
+
+reading
+task1
+--William Perkin was born in London in 1838
+b. subject
+b. trying
+a. way
+b. path
+c. opened
+c. became
+
+task2
+--People always had dreams about flying
+A. because people love the animals. -> 1
+B. going around a large lake. -> 3
+C. as often as they can. -> 6
+D. it’s the only one of its kind. -> ЛИШНИЙ
+E. to do in this wonderful animal park. -> 5
+F. when they play near their cars. -> 2
+G. picnic in the park. -> 4
+
+
+task3
+--he women in the Watson 
+family are all crazy about ballet.
+
+1. What is Alice Watson’s job now?
+b. teacher
+
+2. Demi had her first ballet lessons
+a. at a very young age.
+
+3. Jack helped his wife and daughter by
+c. making a place for them to practise in.
+4. What was the best thing about the Swan Lake show for Demi?
+b. All her family were there.
+5. Hannah says that Demi
+a. will be a star one day.
+
