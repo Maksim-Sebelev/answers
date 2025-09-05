@@ -1,0 +1,204 @@
+.
+├── 1-2.txt
+├── bash
+│   ├── assets
+│   │   └── struct.bash
+│   ├── cmake
+│   │   └── cmake.bash
+│   ├── git
+│   │   ├── commit.bash
+│   │   └── copy.bash
+│   ├── global_bash
+│   │   ├── bash_cd.bash
+│   │   ├── .bash_functions_copy
+│   │   └── create_bash_functions.bash
+│   ├── iwyu
+│   │   └── iwyu.bash
+│   ├── json
+│   │   └── format_json.bash
+│   └── sys
+│       ├── touch_all.bash
+│       └── ulb.bash
+├── .git
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── objects
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-5cc5863c20e77e08dbeb7a6a15f6d2995dc1b0b3.idx
+│   │       ├── pack-5cc5863c20e77e08dbeb7a6a15f6d2995dc1b0b3.pack
+│   │       └── pack-5cc5863c20e77e08dbeb7a6a15f6d2995dc1b0b3.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitignore
+├── istok_sem2_L1
+│   ├── 1
+│   │   ├── listening
+│   │   │   ├── task_1_1.png
+│   │   │   ├── task_1_2.png
+│   │   │   └── task_2.png
+│   │   └── reading
+│   │       ├── task_1.png
+│   │       ├── task_2.png
+│   │       ├── task_3.png
+│   │       └── task_4.png
+│   ├── 1.txt
+│   ├── 2
+│   │   ├── listening
+│   │   │   ├── task_1.png
+│   │   │   └── task_2.png
+│   │   └── reading
+│   │       ├── task_1.png
+│   │       ├── task_2.png
+│   │       ├── task_3.png
+│   │       └── task_4.png
+│   ├── 2.txt
+│   ├── istok.pdf
+│   └── vova_popov_writing.txt
+├── kr_1
+│   ├── 1
+│   │   ├── 1.asm
+│   │   ├── 2.asm
+│   │   ├── 3.asm
+│   │   ├── 4.asm
+│   │   ├── 5.asm
+│   │   └── 6.asm
+│   ├── 2
+│   │   ├── 1.asm
+│   │   ├── 2.asm
+│   │   ├── 3.asm
+│   │   ├── 4.asm
+│   │   ├── 5.asm
+│   │   └── 6.asm
+│   ├── 3
+│   │   ├── 1.asm
+│   │   ├── 2.asm
+│   │   ├── 3.asm
+│   │   ├── 4.asm
+│   │   ├── 5.asm
+│   │   └── 6.asm
+│   └── 4
+│       ├── 1.asm
+│       ├── 2.asm
+│       ├── 3.asm
+│       ├── 4.asm
+│       ├── 5.asm
+│       └── 6.asm
+├── kr_2
+│   ├── 1
+│   │   ├── 1.asm
+│   │   ├── 2.asm
+│   │   ├── 3.asm
+│   │   ├── 4.asm
+│   │   ├── 5.asm
+│   │   ├── 6.asm
+│   │   ├── 7.asm
+│   │   ├── 8.asm
+│   │   └── 9.asm
+│   ├── 2
+│   │   ├── 1.asm
+│   │   ├── 2.asm
+│   │   ├── 3.asm
+│   │   ├── 4.asm
+│   │   ├── 5.asm
+│   │   ├── 6.asm
+│   │   ├── 7.asm
+│   │   └── 8.asm
+│   └── 3
+│       ├── 1.asm
+│       ├── 2.asm
+│       ├── 3.asm
+│       ├── 4.asm
+│       ├── 5.asm
+│       ├── 6.asm
+│       ├── 7.asm
+│       ├── 8.asm
+│       └── 9.asm
+├── Makefile
+├── project_struct
+│   ├── all_project_struct.txt
+│   ├── project_struct.txt
+│   └── without_gitignore_project_struct.txt
+├── severov_kr_2sem_end
+│   ├── 1
+│   │   ├── 1_1.jpg
+│   │   ├── 2_1.jpg
+│   │   ├── 3_1.jpg
+│   │   ├── 4_1.jpg
+│   │   ├── 5_1.jpg
+│   │   ├── 6_1_ans.jpg
+│   │   ├── 6_1.jpg
+│   │   └── 7_1.jpg
+│   ├── 1.jpg
+│   ├── 2
+│   │   ├── 1_2.jpg
+│   │   ├── 2_2.jpg
+│   │   ├── 3_2.jpg
+│   │   ├── 4_2.jpg
+│   │   ├── 5_2.jpg
+│   │   ├── 6_2_ans.jpg
+│   │   ├── 6_2.jpg
+│   │   └── 7_2.jpg
+│   ├── 3
+│   │   ├── 2_3.jpg
+│   │   ├── 3_3.jpg
+│   │   ├── 4_3.jpg
+│   │   ├── 5_3.jpg
+│   │   ├── 6_3.jpg
+│   │   └── 7_3.jpg
+│   ├── 4
+│   │   ├── 2_4.png
+│   │   ├── 3_4.png
+│   │   ├── 4_1_4.png
+│   │   ├── 4_2_4.png
+│   │   ├── 5_4.png
+│   │   ├── 6_4.png
+│   │   └── 7_4.png
+│   └── 5
+│       ├── 1_5.jpg
+│       ├── 2_5.jpg
+│       ├── 3_5.jpg
+│       ├── 4_5.jpg
+│       ├── 5_5.jpg
+│       ├── 6_5.jpg
+│       └── 7_5.jpg
+└── sultan
+    ├── z1
+    ├── z2
+    └── z3
+
+53 directories, 149 files
